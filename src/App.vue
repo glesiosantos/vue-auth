@@ -1,6 +1,6 @@
 <template>
   <navbar/>
-  <div class="auth-wrapper">
+  <div class="auth-wrapper p-0">
     <div class="auth-inner">
       <router-view/>
     </div>
